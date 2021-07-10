@@ -1,5 +1,5 @@
 # Minds-eye
-A Super interactive game especially for ADHD children. In order to run this project efficiently,some library files are needed.One should have to to download those setup files and have to add them to the libraries.
+A Super interactive game especially for ADHD children. In order to run this project efficiently,some library files are needed.One should have to download those setup files and have to add them to the libraries.
 
 1. For playing audio files ,the library file required is, http://jacomp3player.sourceforge.net/
 
